@@ -108,7 +108,11 @@ header .contact-img {
 .card:hover {
   border-color: black;
 }
-
+.workspace-image {
+  margin-top: -10px;
+  width: 300px;
+  border-radius: 5px;
+}
 ul.skills {
   padding: 0;
   text-align: center;
